@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "name": "Untitled layer",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "name": "Great Pyramid of Giza",
+            "description": null,
+            "userRating": 4.6,
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [31.133889, 29.978889]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "The Treasury, Petra, Jordan",
+            "description": null,
+            "userRating": 4.8,
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/24/P%C3%A9tra_de_nuit%2C_Jordanie.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [35.672607, 30.39183]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Christ the Redeemer",
+            "description": "Rio de Janeiro - RJ, Brazil",
+            "userRating": 4.8,
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cristo_Redentor_-_Rio_de_Janeiro%2C_Brasil.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-43.210482, -22.95158]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Chichen Itza",
+            "description": null,
+            "userRating": 4.8,
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.568703, 20.682838]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Colosseum",
+            "description": "Rome, Italy",
+            "userRating": 4.7,
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [12.492402, 41.890194]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "China's Great Wall",
+            "description": null,
+            "userRating": 4.2,
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [116.003705, 40.346409]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Machu Pichu",
+            "description": null,
+            "userRating": 4.8,
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/01/80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.515821, -13.162849]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Taj Mahal",
+            "description": "Agra, India",
+            "userRating": 4.6,
+            "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [78.042086, 27.173006]
+        }
+    }
+    ]
+}
